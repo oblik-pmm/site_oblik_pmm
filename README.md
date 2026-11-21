@@ -26,7 +26,6 @@ python3 -m http.server 8080
 
 - **Email підтримки** — `alexeyfeoktistov1@gmail.com` у `contacts.html`,
   `privacy.html`, `terms.html`.
-- **Телефон підтримки** — `+380984040741` у `contacts.html`.
 - **Розробник** — `Олексій Феоктістов` у `terms.html`.
 - **Домен сайту** — `https://alexfeoktistov.github.io/site_oblik_pmm` у
   `robots.txt` і `sitemap.xml` (GitHub Pages за замовчуванням для репозиторію
