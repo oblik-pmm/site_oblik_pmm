@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://alexfeoktistov.github.io/site_oblik_pmm/sitemap.xml
+Sitemap: https://oblik-pmm.github.io/site_oblik_pmm/sitemap.xml
